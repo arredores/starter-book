@@ -19,5 +19,11 @@ Acho que agora terei uma maneira de produzir minhas páginas sem dificuldades. V
 
 :bangbang: Tem tudo para dar certo... Criança e sábado, **persistência**.
 
-[pagi](http://pagi.wikidot.com "pagi")
+:soon: [pagi](http://pagi.wikidot.com "pagi")
+
+primeiro | segundo
+---: | :---
+20 | clareza
+30 | elegância
+40 | **apenas isso**
 
