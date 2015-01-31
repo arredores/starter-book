@@ -13,3 +13,11 @@ This is a standard paragraph, containing a **bolded word** followed by an _itali
 * Item 3
 
 Check out some more advanced examples on the next page.
+
+## Testando markdown
+Acho que agora terei uma maneira de produzir minhas páginas sem dificuldades. Vamos ver o UTF-8. Amanhã será um novo dia?
+
+:bangbang: Tem tudo para dar certo... Criança e sábado, **persistência**.
+
+[pagi](http://pagi.wikidot.com "pagi")
+
