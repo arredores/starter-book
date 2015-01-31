@@ -4,6 +4,8 @@ Below are a few simple examples of embedding content with markdown, starting wit
 
 ![This is an image embed](images/500x150.gif)
 
+![epub](/https://dl.dropboxusercontent.com/u/51790489/bitbooks/imagens/epub.png)
+
 ![epub](/https://app.box.com/s/zwyp14gtdj3aos46ijtzajn5s49c9gee)
 
 ![html](/https://www.dropbox.com/s/x2w4ga3t0a0s4a5/html.png?dl=0)
